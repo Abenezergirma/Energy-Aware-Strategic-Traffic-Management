@@ -1,0 +1,877 @@
+[
+    {
+        "weight": 0.1,
+        "ave_ground_delay": 638.0,
+        "energy": 270.8,
+        "profile": [
+            {
+                "request_time": 65,
+                "schedule_time": 65,
+                "speed": 52,
+                "route": "D",
+                "ground_delay": 0
+            },
+            {
+                "request_time": 169,
+                "schedule_time": 169,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 0
+            },
+            {
+                "request_time": 327,
+                "schedule_time": 327,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 0
+            },
+            {
+                "request_time": 373,
+                "schedule_time": 427,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 54
+            },
+            {
+                "request_time": 137,
+                "schedule_time": 434,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 297
+            },
+            {
+                "request_time": 395,
+                "schedule_time": 530,
+                "speed": 47,
+                "route": "C",
+                "ground_delay": 135
+            },
+            {
+                "request_time": 151,
+                "schedule_time": 534,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 383
+            },
+            {
+                "request_time": 458,
+                "schedule_time": 630,
+                "speed": 47,
+                "route": "C",
+                "ground_delay": 172
+            },
+            {
+                "request_time": 530,
+                "schedule_time": 730,
+                "speed": 47,
+                "route": "C",
+                "ground_delay": 200
+            },
+            {
+                "request_time": 253,
+                "schedule_time": 734,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 481
+            },
+            {
+                "request_time": 178,
+                "schedule_time": 934,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 756
+            },
+            {
+                "request_time": 590,
+                "schedule_time": 1030,
+                "speed": 47,
+                "route": "C",
+                "ground_delay": 440
+            },
+            {
+                "request_time": 235,
+                "schedule_time": 1034,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 799
+            },
+            {
+                "request_time": 297,
+                "schedule_time": 1134,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 837
+            },
+            {
+                "request_time": 735,
+                "schedule_time": 1230,
+                "speed": 47,
+                "route": "C",
+                "ground_delay": 495
+            },
+            {
+                "request_time": 311,
+                "schedule_time": 1234,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 923
+            },
+            {
+                "request_time": 369,
+                "schedule_time": 1334,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 965
+            },
+            {
+                "request_time": 326,
+                "schedule_time": 1434,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 1108
+            },
+            {
+                "request_time": 413,
+                "schedule_time": 1534,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 1121
+            },
+            {
+                "request_time": 398,
+                "schedule_time": 1634,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 1236
+            },
+            {
+                "request_time": 682,
+                "schedule_time": 1734,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 1052
+            },
+            {
+                "request_time": 596,
+                "schedule_time": 1834,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 1238
+            },
+            {
+                "request_time": 703,
+                "schedule_time": 1934,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 1231
+            },
+            {
+                "request_time": 645,
+                "schedule_time": 2034,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 1389
+            }
+        ]
+    },
+    {
+        "weight": 0.5,
+        "ave_ground_delay": 549.8,
+        "energy": 264.6,
+        "profile": [
+            {
+                "request_time": 9,
+                "schedule_time": 9,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 0
+            },
+            {
+                "request_time": 81,
+                "schedule_time": 81,
+                "speed": 53,
+                "route": "D",
+                "ground_delay": 0
+            },
+            {
+                "request_time": 105,
+                "schedule_time": 105,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 0
+            },
+            {
+                "request_time": 124,
+                "schedule_time": 134,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 10
+            },
+            {
+                "request_time": 133,
+                "schedule_time": 205,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 72
+            },
+            {
+                "request_time": 234,
+                "schedule_time": 305,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 71
+            },
+            {
+                "request_time": 92,
+                "schedule_time": 334,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 242
+            },
+            {
+                "request_time": 325,
+                "schedule_time": 405,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 80
+            },
+            {
+                "request_time": 201,
+                "schedule_time": 534,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 333
+            },
+            {
+                "request_time": 338,
+                "schedule_time": 630,
+                "speed": 47,
+                "route": "C",
+                "ground_delay": 292
+            },
+            {
+                "request_time": 99,
+                "schedule_time": 634,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 535
+            },
+            {
+                "request_time": 378,
+                "schedule_time": 734,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 356
+            },
+            {
+                "request_time": 364,
+                "schedule_time": 830,
+                "speed": 47,
+                "route": "C",
+                "ground_delay": 466
+            },
+            {
+                "request_time": 391,
+                "schedule_time": 834,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 443
+            },
+            {
+                "request_time": 131,
+                "schedule_time": 934,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 803
+            },
+            {
+                "request_time": 342,
+                "schedule_time": 1034,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 692
+            },
+            {
+                "request_time": 374,
+                "schedule_time": 1134,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 760
+            },
+            {
+                "request_time": 539,
+                "schedule_time": 1234,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 695
+            },
+            {
+                "request_time": 398,
+                "schedule_time": 1434,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 1036
+            },
+            {
+                "request_time": 452,
+                "schedule_time": 1634,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 1182
+            },
+            {
+                "request_time": 373,
+                "schedule_time": 1730,
+                "speed": 47,
+                "route": "C",
+                "ground_delay": 1357
+            },
+            {
+                "request_time": 651,
+                "schedule_time": 1734,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 1083
+            },
+            {
+                "request_time": 460,
+                "schedule_time": 1834,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 1374
+            },
+            {
+                "request_time": 618,
+                "schedule_time": 1930,
+                "speed": 47,
+                "route": "C",
+                "ground_delay": 1312
+            }
+        ]
+    },
+    {
+        "weight": 1,
+        "ave_ground_delay": 532.7,
+        "energy": 263.7,
+        "profile": [
+            {
+                "request_time": 70,
+                "schedule_time": 70,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 0
+            },
+            {
+                "request_time": 87,
+                "schedule_time": 87,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 0
+            },
+            {
+                "request_time": 104,
+                "schedule_time": 134,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 30
+            },
+            {
+                "request_time": 104,
+                "schedule_time": 187,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 83
+            },
+            {
+                "request_time": 164,
+                "schedule_time": 234,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 70
+            },
+            {
+                "request_time": 160,
+                "schedule_time": 287,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 127
+            },
+            {
+                "request_time": 294,
+                "schedule_time": 387,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 93
+            },
+            {
+                "request_time": 108,
+                "schedule_time": 434,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 326
+            },
+            {
+                "request_time": 431,
+                "schedule_time": 487,
+                "speed": 54,
+                "route": "C",
+                "ground_delay": 56
+            },
+            {
+                "request_time": 225,
+                "schedule_time": 634,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 409
+            },
+            {
+                "request_time": 437,
+                "schedule_time": 730,
+                "speed": 47,
+                "route": "C",
+                "ground_delay": 293
+            },
+            {
+                "request_time": 145,
+                "schedule_time": 734,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 589
+            },
+            {
+                "request_time": 487,
+                "schedule_time": 930,
+                "speed": 47,
+                "route": "C",
+                "ground_delay": 443
+            },
+            {
+                "request_time": 317,
+                "schedule_time": 934,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 617
+            },
+            {
+                "request_time": 164,
+                "schedule_time": 1034,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 870
+            },
+            {
+                "request_time": 203,
+                "schedule_time": 1134,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 931
+            },
+            {
+                "request_time": 874,
+                "schedule_time": 1230,
+                "speed": 47,
+                "route": "C",
+                "ground_delay": 356
+            },
+            {
+                "request_time": 348,
+                "schedule_time": 1234,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 886
+            },
+            {
+                "request_time": 386,
+                "schedule_time": 1334,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 948
+            },
+            {
+                "request_time": 408,
+                "schedule_time": 1434,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 1026
+            },
+            {
+                "request_time": 558,
+                "schedule_time": 1534,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 976
+            },
+            {
+                "request_time": 410,
+                "schedule_time": 1634,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 1224
+            },
+            {
+                "request_time": 598,
+                "schedule_time": 1734,
+                "speed": 50,
+                "route": "U",
+                "ground_delay": 1136
+            },
+            {
+                "request_time": 538,
+                "schedule_time": 1834,
+                "speed": 50,
+                "route": "D",
+                "ground_delay": 1296
+            }
+        ]
+    },
+    {
+        "weight": 5,
+        "ave_ground_delay": 635.2,
+        "energy": 212.7,
+        "profile": [
+            {
+                "request_time": 110,
+                "schedule_time": 110,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 0
+            },
+            {
+                "request_time": 120,
+                "schedule_time": 129,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 9
+            },
+            {
+                "request_time": 180,
+                "schedule_time": 210,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 30
+            },
+            {
+                "request_time": 227,
+                "schedule_time": 310,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 83
+            },
+            {
+                "request_time": 327,
+                "schedule_time": 410,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 83
+            },
+            {
+                "request_time": 507,
+                "schedule_time": 606,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 99
+            },
+            {
+                "request_time": 284,
+                "schedule_time": 629,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 345
+            },
+            {
+                "request_time": 552,
+                "schedule_time": 706,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 154
+            },
+            {
+                "request_time": 125,
+                "schedule_time": 729,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 604
+            },
+            {
+                "request_time": 559,
+                "schedule_time": 806,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 247
+            },
+            {
+                "request_time": 186,
+                "schedule_time": 829,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 643
+            },
+            {
+                "request_time": 587,
+                "schedule_time": 906,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 319
+            },
+            {
+                "request_time": 198,
+                "schedule_time": 929,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 731
+            },
+            {
+                "request_time": 222,
+                "schedule_time": 1029,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 807
+            },
+            {
+                "request_time": 424,
+                "schedule_time": 1129,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 705
+            },
+            {
+                "request_time": 493,
+                "schedule_time": 1229,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 736
+            },
+            {
+                "request_time": 308,
+                "schedule_time": 1329,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 1021
+            },
+            {
+                "request_time": 497,
+                "schedule_time": 1429,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 932
+            },
+            {
+                "request_time": 357,
+                "schedule_time": 1529,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 1172
+            },
+            {
+                "request_time": 406,
+                "schedule_time": 1629,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 1223
+            },
+            {
+                "request_time": 478,
+                "schedule_time": 1729,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 1251
+            },
+            {
+                "request_time": 615,
+                "schedule_time": 1829,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 1214
+            },
+            {
+                "request_time": 506,
+                "schedule_time": 1929,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 1423
+            },
+            {
+                "request_time": 616,
+                "schedule_time": 2029,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 1413
+            }
+        ]
+    },
+    {
+        "weight": 10,
+        "ave_ground_delay": 621.1,
+        "energy": 212.7,
+        "profile": [
+            {
+                "request_time": 55,
+                "schedule_time": 55,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 0
+            },
+            {
+                "request_time": 77,
+                "schedule_time": 77,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 0
+            },
+            {
+                "request_time": 103,
+                "schedule_time": 129,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 26
+            },
+            {
+                "request_time": 140,
+                "schedule_time": 177,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 37
+            },
+            {
+                "request_time": 195,
+                "schedule_time": 277,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 82
+            },
+            {
+                "request_time": 123,
+                "schedule_time": 329,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 206
+            },
+            {
+                "request_time": 231,
+                "schedule_time": 377,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 146
+            },
+            {
+                "request_time": 107,
+                "schedule_time": 429,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 322
+            },
+            {
+                "request_time": 364,
+                "schedule_time": 606,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 242
+            },
+            {
+                "request_time": 160,
+                "schedule_time": 629,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 469
+            },
+            {
+                "request_time": 165,
+                "schedule_time": 729,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 564
+            },
+            {
+                "request_time": 438,
+                "schedule_time": 906,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 468
+            },
+            {
+                "request_time": 203,
+                "schedule_time": 929,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 726
+            },
+            {
+                "request_time": 170,
+                "schedule_time": 1029,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 859
+            },
+            {
+                "request_time": 636,
+                "schedule_time": 1206,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 570
+            },
+            {
+                "request_time": 292,
+                "schedule_time": 1229,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 937
+            },
+            {
+                "request_time": 302,
+                "schedule_time": 1329,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 1027
+            },
+            {
+                "request_time": 355,
+                "schedule_time": 1429,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 1074
+            },
+            {
+                "request_time": 663,
+                "schedule_time": 1506,
+                "speed": 56,
+                "route": "C",
+                "ground_delay": 843
+            },
+            {
+                "request_time": 386,
+                "schedule_time": 1529,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 1143
+            },
+            {
+                "request_time": 460,
+                "schedule_time": 1629,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 1169
+            },
+            {
+                "request_time": 408,
+                "schedule_time": 1729,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 1321
+            },
+            {
+                "request_time": 568,
+                "schedule_time": 1829,
+                "speed": 56,
+                "route": "U",
+                "ground_delay": 1261
+            },
+            {
+                "request_time": 514,
+                "schedule_time": 1929,
+                "speed": 56,
+                "route": "D",
+                "ground_delay": 1415
+            }
+        ]
+    }
+]
